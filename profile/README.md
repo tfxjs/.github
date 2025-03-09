@@ -1,6 +1,9 @@
-# TFxJS
+<h1 align="center"><b>Twitch Framework x JS</b></h1>
+<p align="center">Advanced tools for Twitch bot development!</p>
 
-🚀 **Twitch Framework x JS** – Advanced tools for Twitch bot development!
+<p align="center">
+  <img src="https://github.com/tfxjs/.github/blob/main/TFxJS-logo-circle.png" alt="TFxJS Logo" width="300"/>
+</p>
 
 ## 📌 About Us
 
